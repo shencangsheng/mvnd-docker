@@ -19,3 +19,9 @@
 ```bash
 docker build -t ${image_name}:${image_version} --build-arg MVND_VERSION=latest --target jdk11
 ```
+
+## 尝试使用
+
+```bash
+docker run --rm -v "$(pwd)":/code -v maven_volume:/root/.m2 -w /code ${image_name}:${image_version} mvnd clean install
+```
