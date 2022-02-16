@@ -2,7 +2,7 @@
 
 English | [简体中文](./i18n/README.zh-cn.md)
 
-This project aims at providing faster [Maven](https://maven.apache.org/) builds using techniques known from Gradle and
+This project aims at providing faster [Maven](https://github.com/apache/maven-mvnd) builds using techniques known from Gradle and
 Takari.
 
 [ DockerHub  Repositorie ](https://hub.docker.com/r/shencangsheng/mvnd)

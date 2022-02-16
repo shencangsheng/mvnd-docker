@@ -4,7 +4,7 @@
 
 [ DockerHub 仓库 ](https://hub.docker.com/r/shencangsheng/mvnd)
 
-这个项目的目标是使用Gradle和Takari所知的技术提供更快的[Maven](https://maven.apache.org/)构建。
+这个项目的目标是使用Gradle和Takari所知的技术提供更快的[Maven](https://github.com/apache/maven-mvnd)构建。
 
 ## Builder
 
