@@ -22,7 +22,7 @@ Takari.
 * jdk11
 
 ```bash
-docker build -t ${image_name}:${image_version} --build-arg MVND_VERSION=latest --target jdk11
+docker build -t ${image_name}:${image_version} --build-arg MVND_VERSION=latest --target jdk11 .
 ```
 
 ## Trying
